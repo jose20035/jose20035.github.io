@@ -2,5 +2,5 @@
 
 bundle exec jekyll build -d docs
 git add *
-git commit -am "cambio de nombre"
+git commit -am "Cambiar Pagina"
 git push
